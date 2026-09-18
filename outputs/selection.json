@@ -1,0 +1,14 @@
+{
+  "model": "ridge_trend",
+  "selection_metric": "min_validation_MAE",
+  "validation_MAE": 0.4490041158194718,
+  "data_sha256": "484b508b28397b39bc29c4824ea495530e38cbc2848f2f906098d1ee6da57cfc",
+  "features": [
+    "state",
+    "district",
+    "season",
+    "year"
+  ],
+  "target": "yield_t_ha",
+  "status": "Trained only on Training Split; Zero Train+Val refit"
+}

@@ -1,0 +1,18 @@
+{
+  "task": "regression",
+  "crop": "Rice",
+  "yield_unit": "t/ha",
+  "advanced": false,
+  "seed": 42,
+  "raw_data_filename": "main merge (droped _merge==2) (560 dist 1990-2015).xls",
+  "canonical_path": "data/rice_canonical.csv",
+  "output_dir": "outputs/core",
+  "features_whitelist": [
+    "state",
+    "district",
+    "season",
+    "year"
+  ],
+  "target": "yield_t_ha",
+  "registration_no": "23MID0381"
+}

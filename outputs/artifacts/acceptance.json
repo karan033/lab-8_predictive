@@ -1,0 +1,12 @@
+{
+  "split_disjoint": true,
+  "reload_consistent": true,
+  "valid_predictions": true,
+  "data_hash_matched": true,
+  "task": "regression",
+  "selected_model": "ridge_trend",
+  "validation_MAE": 0.4490041158194718,
+  "test_MAE": 0.4621062062279999,
+  "manual_failure_rows_analyzed": 5,
+  "timestamp": "2026-09-18 13:27:18.372237"
+}

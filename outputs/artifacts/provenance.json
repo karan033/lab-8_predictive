@@ -1,0 +1,13 @@
+{
+  "raw_file": "main merge (droped _merge==2) (560 dist 1990-2015).xls",
+  "raw_sha256": "e972b837b29298b8f06cda6fe7ea982d90a7a97a66e9a07fc72df3b66680318d",
+  "canonical_sha256": "484b508b28397b39bc29c4824ea495530e38cbc2848f2f906098d1ee6da57cfc",
+  "raw_row_count": 12803,
+  "canonical_row_count": 11969,
+  "unique_states": 20,
+  "unique_districts": 536,
+  "year_range": [
+    1990,
+    2015
+  ]
+}
